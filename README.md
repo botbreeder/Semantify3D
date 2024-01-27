@@ -24,6 +24,10 @@ We're not limited to this kind of informatiion though. We can add visual, audito
 
 Of course this is not only 3D. The fourth dimension is time, since a scene can be animated.
 
+### Functionality
 
+From there, this platform aims to provide tools for programmatically create and animate semantic scenes. Just like in a video game engine, you'll find tweening, "voxel sprites" that can be animated, rotated and scaled, all the 3D math. But you'll also find tools for meaning calculation, and hopefully several ways to visualize everything.
+
+Then, the goal is to provide tools for deep learning it all. Experimentation will be needed to find the best ways to learn, and then predict or generate semantic scenes.
 
 
