@@ -34,7 +34,7 @@ Then, the goal is to furnish tools for deep learning it all. Experimentation wil
 
 ### Sememes
 
-What makes sememes meaningful is primarily where and when they appear. Context forms a meaning, then meaning participate in a context. Let's take a simple example. If there is always a group of "human head" sememes in the topmost region occupied by "human body" sememes, then we can expect that it will always be the case. Then, if we see a group of "human head" sememes somewhere, we would expect "human body" to be there and underneath.
+What makes sememes meaningful is primarily the context where and when they appear. Context forms a meaning, then meaning can participate in a context. Let's take a simple example. If there is always a group of "human head" sememes in the topmost region occupied by "human body" sememes, then we can expect that it will always be the case. Then, if we see a group of "human head" sememes somewhere, we would expect "human body" to be there and underneath.
 
 The context is not only space but also time related. When a father reunites with his daughter after a prolonged separation, a lot of "joy" sememes can be expected to fly around!
 
