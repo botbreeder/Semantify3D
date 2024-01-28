@@ -1,6 +1,6 @@
 # Semantify3D
 
-Word embedding in 3D spaces.
+_Word embedding in 3D spaces._
 
 ![blue matrix](https://raw.githubusercontent.com/botbreeder/Semantify3D/main/bm.jpg)
 
@@ -32,7 +32,13 @@ From there, this platform aims to provide tools for programmatically create and 
 
 Then, the goal is to provide tools for deep learning it all. Experimentation will be needed to find the best ways to learn, and then predict or generate semantic scenes.
 
+### Sememes
 
+What makes sememes meaningful is primarily where and when they appear. The context builds the meaning, then the meaning can participate in a context. Let's take a simple example. If there is always a group of "human head" sememes in the topmost region occupied by "human body" sememes, then we can expect that it will always be the case. Then, if we see a group of "human head" sememes somewhere, we would expect "human body" to be there and underneath.
+
+Of course it's not only space but also time related. When a father reunites with his daughter after a prolonged separation, we can expect there will be a lot of "joy" sememes around!
+
+The other source of meaning is the text used to describe the sememe. If the platform is at some point connected to an LLM, it makes sense to name a human head "human head" rather than "foobar24".
 
 
 
